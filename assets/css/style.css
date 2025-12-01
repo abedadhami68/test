@@ -18,3 +18,10 @@
 .users_list_item .users_list_arrow_icon{
    transition: all 200ms ease;
 }
+
+table.highlight > tbody > tr:hover {
+  background-color: rgba(76, 94, 255, 0.5);
+}
+.container{
+  width: 100% !important;  
+}
